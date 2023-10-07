@@ -9,5 +9,4 @@
 
 int _putchar(char c);
 int _print_process(int v);
-int main(int ac, char **av);
 #endif

@@ -9,4 +9,5 @@
 
 int _putchar(char c);
 int _print_process(int v);
+char **_str_spilt(char *str, const char *deli);
 #endif

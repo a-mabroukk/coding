@@ -10,4 +10,7 @@
 int _putchar(char c);
 int _print_process(int v);
 char **_str_spilt(char *str, const char *deli);
+char *_strcpy(char *dest, char *src);
+void _puts(char *str);
+int _strlen(char *s);
 #endif

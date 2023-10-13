@@ -9,7 +9,7 @@
 int main(int ac, char **av)
 {
 int arg;
-(void)ac;
+void(ac);
 
 for (arg = 1; av[arg] != NULL; arg++)
 {

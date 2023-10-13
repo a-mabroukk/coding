@@ -6,7 +6,7 @@
 #include <string.h>
 #include <fcntl.h>
 #include <unistd.h>
-
+#include <sys/wait.h>
 int _putchar(char c);
 int _print_process(int v);
 char **_str_spilt(char *str, const char *deli);
